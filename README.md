@@ -1,6 +1,6 @@
 # VLDRec
 
-This repository is the official implementation of **Alleviating Video Length Effect of Micro-video Recommendation** (Submitted to SIGIR 2022)
+This repository is the official implementation of **Alleviating Video Length Effect of Micro-video Recommendation** 
 
 ## Requirements
 
